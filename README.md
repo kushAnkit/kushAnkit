@@ -10,7 +10,7 @@
 
 **Languages:** Python, JavaScript, Java  
 **AI Frameworks:** LangChain, Hugging Face, OpenAI API  
-**Web Stack:** FastAPI, Node.js, React, MongoDB, PostgreSQL  
+**Web Stack:** FastAPI, Node.js, React, Django ,MongoDB, PostgreSQL  
 **Tools:** Docker, Git, Streamlit, Gradio  
 
 ---
