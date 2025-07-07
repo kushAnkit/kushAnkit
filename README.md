@@ -26,10 +26,6 @@ Deployed via **FastAPI** + **Gradio**.
 *Automated Data Extraction using BeautifulSoup & Pandas*  
 Parses LinkedIn profiles into structured datasets ready for **ML workflows**. Built with Python.
 
-### 🔹 [Cab Rental Platform](#)
-*Real-time web app with booking & driver assignment logic*  
-End-to-end full stack system using **Node.js**, **MongoDB**, **WebSockets**, and vanilla JS.
-
 ---
 
 ## 🏆 Achievements
