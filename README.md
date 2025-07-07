@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ankit Kushwah
 
 🚀 Passionate about building intelligent systems using **Generative AI, LLMs**, and full stack development.  
-🎓 B.Tech in Computer Science | Maharishi University  
+🎓 B.Tech in Computer Science | Galgotias University  
 💼 Open Source Contributor (GSSOC) | Freelance Full Stack Developer  
 
 ---
